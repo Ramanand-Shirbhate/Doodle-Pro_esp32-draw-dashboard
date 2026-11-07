@@ -168,7 +168,3 @@ This project is released under the **MIT License** – see the `LICENSE` file fo
 ---  
 
 *Happy drawing! 🚀*
-
-===========================================
-
---- LinkedIn Post Generation ---
